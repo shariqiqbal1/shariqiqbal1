@@ -1,7 +1,7 @@
 ### Shariq Iqbal
 Product Manager // Former Engineer
 
-* **Current:** Sr. PM @ Careem/Uber; Scaling Growth, Monetization & Identity.
+* **Current:** PM @ Careem/Uber; Scaling Growth, Monetization & Identity.
 * **Previously:** Product & Eng @ Amazon, Slack, Oracle, Dell.
 
 ---
